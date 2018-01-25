@@ -1,8 +1,9 @@
-# 1.7.X (2018-01-11)
+# 1.7.X
 
 ## Bug Fixes
 
 - PIM-7130: Fix product update when association type code is an integer
+- PIM-7134: Fix memory leak when purging version history (MongoDB)
 
 # 1.7.16 (2018-01-11)
 
